@@ -1,0 +1,4 @@
+Marília;31
+Victor;30
+Ana;54
+Pedro;20

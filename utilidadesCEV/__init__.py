@@ -1,0 +1,1 @@
+from utilidadesCEV import moeda, dados
